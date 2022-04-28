@@ -10,10 +10,10 @@ input = web.find_element_by_xpath('/html/body/div[1]/div[2]/form/div[2]/div/div[
 input.send_keys("yashwanth6675@gmail.com")
 
 input = web.find_element_by_xpath('/html/body/div[1]/div[2]/form/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input')
-input.send_keys("yashwanth")
+input.send_keys("yashu")
 
 input = web.find_element_by_xpath('/html/body/div[1]/div[2]/form/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div[1]/div/div[1]/input')
-input.send_keys("19B11096")
+input.send_keys("19B11000")
 
 input = web.find_element_by_xpath('//*[@id="i18"]/div[2]')
 input.click()
